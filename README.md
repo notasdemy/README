@@ -35,6 +35,5 @@ I write in Spanish, think in English, and occasionally dream in Portuguese.
 - ✍️ [Notas de Emy — Substack](https://notasdemy.substack.com/) — historias, crónicas y ensayos sobre la vida, los current affairs, la cultura pop y el internet
 - 📸 [Instagram](https://www.instagram.com/notasdemy/)
 
----
 
-*This profile is a work in progress — like most worthwhile things.*
+*This profile is a work in progress, like most worthwhile things.*
