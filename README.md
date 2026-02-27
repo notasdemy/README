@@ -2,7 +2,7 @@
 
 *Former enfant terrible. Now, a mostly harmless contemporary iconoclast — and part-time aspiring mystic.*
 
----
+
 
 In all seriousness, I'm a researcher, program builder, and writer working at the intersection of **AI, ethics, inclusion, and communication**. I'm Colombian, based in Aachen (Germany), but thinking and working globally.
 
@@ -10,7 +10,6 @@ My work lives in the space where technology meets people, that is, how organizat
 
 I'm currently completing a **Master's in Philosophy and Theology with a focus on AI ethics, alignment and decision** at the University of Lucerne, while working on AI program design and deployment with organizations across Europe, Latin America, and the Caribbean.
 
----
 
 ## What you'll find here
 
@@ -19,7 +18,7 @@ I'm currently completing a **Master's in Philosophy and Theology with a focus on
 - ✍️ **Writing & research** — templates, analytical frameworks, and knowledge products from my program and consultancy work
 - 🌱 **Works in progress** — I believe in learning in public, so some of this will be messy and unfinished. That's the point.
 
----
+
 
 ## A bit more about me
 
@@ -29,7 +28,7 @@ By night (and on Substack): stories, essays, and chronicles about life in all it
 
 I write in Spanish, think in English, and occasionally dream in Portuguese.
 
----
+
 
 ## Find me elsewhere
 
