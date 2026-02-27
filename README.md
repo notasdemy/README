@@ -3,12 +3,11 @@
 *Former enfant terrible. Now, a mostly harmless contemporary iconoclast — and part-time aspiring mystic.*
 
 
-
 In all seriousness, I'm a researcher, program builder, and writer working at the intersection of **AI, ethics, inclusion, and communication**. I'm Colombian, based in Aachen (Germany), but thinking and working globally.
 
 My work lives in the space where technology meets people, that is, how organizations adopt AI responsibly, how digital tools actually get used (or don't), and what it means ethically to build and deploy intelligent systems in a world that is still figuring all of this out.
 
-I'm currently completing a **Master's in Philosophy and Theology with a focus on AI ethics, alignment and decision** at the University of Lucerne, while working on AI program design and deployment with organizations across Europe, Latin America, and the Caribbean.
+I'm currently completing a **Master's in Philosophy and Theology with a focus on AI ethics, alignment and decision** at the University of Lucerne, while working on AI program design and deployment with organizations across Europe, Anglophone Africa, Latin America, and the Caribbean.
 
 
 ## What you'll find here
@@ -32,7 +31,7 @@ I write in Spanish, think in English, and occasionally dream in Portuguese.
 
 ## Find me elsewhere
 
-- ✍️ [Notas de Emy — Substack](https://notasdemy.substack.com/) — historias, crónicas y ensayos sobre la vida, los current affairs, la cultura pop y el internet
+- ✍️ [Notas de Emy — Substack](https://notasdemy.substack.com/)
 - 📸 [Instagram](https://www.instagram.com/notasdemy/)
 
 
